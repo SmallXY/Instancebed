@@ -1,0 +1,3 @@
+name: BedWarsTest
+version: '${project.version}'
+main: net.lanternmc.bedwarstest.BedWarsTest
